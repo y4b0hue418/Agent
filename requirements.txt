@@ -1,3 +1,4 @@
+ollama
 strands-agents
-strands-agents-ollama
 flask
+requests
